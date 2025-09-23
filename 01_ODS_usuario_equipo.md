@@ -12,15 +12,15 @@ Además el (ENSAFI) nos dijo que el 50% de los adultos mayores a 18 años muestr
 https://www.condusef.gob.mx/?p=contenido&idc=2448&idcat=1
 
 Población objetivo: Cualquiera podría usar la app, pero esta pensada para gente que 
-quiera aprender a gestionar su dinero como adolscentes, jovenes adultos y adultos
+quiera aprender a gestionar su dinero como adolescentes, jóvenes adultos y adultos
 que acaban de independizarse.
 
 Relevancia: Es un tema de interés debido a que permite tener mejor control sobre tu dinero y, por ende, de tus gastos. No existen muchas aplicaciones que cumplan con esta función de 
-educación financiera de facil acceso. 
+educación financiera de fácil acceso. 
 
 Roles para los integrantes del equipo:
   - Product Owner: Ian 
   - Tech Lead: Giovanni
-  - Desarrollador UI: Josue 
-  - Desarrollador de Datos/API: Joaquin
+  - Desarrollador UI: Josué 
+  - Desarrollador de Datos/API: Joaquín
   - QA / Analista de Pruebas: Armando
