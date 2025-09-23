@@ -13,8 +13,8 @@ ende, de tus gastos. No existen muchas aplicaciones que cumplan con esta funció
 educación financiera de facil acceso. 
 
 Roles para los integrantes del equipo:
-Product Owner: Ian 
-Tech Lead: Giovanni
-Desarrollador UI: Josue 
-Desarrollador de Datos/API: Joaquin
-QA / Analista de Pruebas: Armando
+  - Product Owner: Ian 
+  - Tech Lead: Giovanni
+  - Desarrollador UI: Josue 
+  - Desarrollador de Datos/API: Joaquin
+  - QA / Analista de Pruebas: Armando
