@@ -6,4 +6,4 @@ Los aspectos de la población objetivo que están siendo afectados por la falta 
 - La falta de educación financiera en los jóvenes puede resultar en la mala gestión de sus recursos económicos y una desmotivación que puede orillarlos a mantenerse en una situación económica inestable. 
 
 
-La falta de educación financiera impide el crecimiento económico de las personas. A los jóvenes 
+La falta de educación financiera impide el desarrollo de estabilidad económica
