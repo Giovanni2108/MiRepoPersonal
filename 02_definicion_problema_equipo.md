@@ -11,7 +11,7 @@ Los aspectos de la población objetivo que están siendo afectados por la falta 
 Síntesis/enunciado del problema:
 *Las personas no tienen acceso a una herramienta intuitiva de educación financiera integral, lo que limita su interés en las buenas prácticas financieras mediante la planificación.*
 
-Le dejamos un pequeño artículo que habla sobre la educación financiera que tomamos como base para algunos argumentos: https://revista.condusef.gob.mx/wp-content/uploads/2012/09/PDF-s_2012_151_condusef.pdf 
+Le dejamos un pequeño artículo que habla sobre la educación financiera el cual tomamos como base para algunos de nuestros argumentos: https://revista.condusef.gob.mx/wp-content/uploads/2012/09/PDF-s_2012_151_condusef.pdf 
 
 # Causas principales del problema
 1. Falta de acceso a una educación financiera formal en la escuela, en etapas tempranas de la vida y hasta en la vida adulta.
@@ -36,4 +36,5 @@ Estos casos sirven para asegurar que se cumplan los objetivos del prototipo (MVP
 5. El prototipo deberá contener al menos 3 tipos diferentes de preguntas (opción múltiple, abiertas, relacionar, etc.) para garantizar un aprendizaje más dinámico del usuario.
 6. El prototipo deberá ser capaz de entregar una retroalimentación instantánea de los aciertos y fallos en el 100% de las actividades.
 7. El prototipo debe tener un diseño intuitivo que ofrezca una experiencia sencilla y sin complicaciones en al menos el 70% de los casos (las actualizaciones nos ayudarán a pulirlo).
+
 EXTRA. Si el proyecto llega a cumplir todos estos casos de éxito, así como ser apoyado por alguna empresa grande, se podrían agregar certificaciones que avalen los conocimientos y que se puedan agregar en un currículo.
