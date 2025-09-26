@@ -20,3 +20,5 @@ Los aspectos de la población objetivo que están siendo afectados por la falta 
 1. Mala gestión de recursos económicos, lo que puede terminar en un endeudamiento innecesario y en dificultades para generar ahorro.
 2. Limitación de oportunidades de desarrollo personal y económico, ya que no se aprovechan créditos accesibles ni inversiones seguras.
 3. Inestabilidad económica, especialmente en adolescentes y jóvenes que apenas comienzan su vida financiera.
+
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/865b3f49-2191-4133-910d-c14f698c7351" />
