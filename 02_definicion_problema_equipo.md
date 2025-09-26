@@ -11,6 +11,8 @@ Los aspectos de la población objetivo que están siendo afectados por la falta 
 Sintesis/enunciado del problema
 *Las personas no tienen acceso a una herramienta intuitiva de educación financiera integral, lo que limita su interés en las buenas prácticas financieras mediante la planificación.*
 
+Le dejamos un pequeño articulo que habla sobre la educación financiera que tomamos como base para algunos argumentos: https://revista.condusef.gob.mx/wp-content/uploads/2012/09/PDF-s_2012_151_condusef.pdf 
+
 # Causas principales del problema
 1. Falta de acceso a una educación financiera formal en la escuela, en etapas tempranas de la vida y hasta en la vida adulta.
 2. Información financiera poco clara o con sesgo comercial, enfocada en promover productos bancarios en lugar de enseñar hábitos saludables.
