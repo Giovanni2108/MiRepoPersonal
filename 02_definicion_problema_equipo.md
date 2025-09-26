@@ -1,3 +1,6 @@
+ODS que estarán presentes como prioridades en este trabajo: Educación de calidad (ODS No.4) y trabajo decente y crecimiento económico (ODS No.8).
+Problema que deseamos abordar: Educación financiera para todas las edades y un acceso más sencillo a la información por medio de una aplicación.
+
 Los aspectos de la población objetivo que están siendo afectados por la falta de educación financiera podrían resumirse en los siguientes puntos:
 
 - Desde temprana edad, las personas ignoran la importancia del acceso a información sobre cómo gestionar los recursos económicos.
