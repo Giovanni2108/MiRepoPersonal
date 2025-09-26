@@ -27,7 +27,7 @@ Sintesis/enunciado del problema
 
 Estos casos sirven para determinar que se cumplan los objetivos del prototipo (MVP).
 
-1. El prototipo debe de guardar el avance del usuario.
+1. El prototipo debe de guardar el avance del usuario siempre que se le indique.
 2. El prototipo debe de tener una pagina inicial ("MENU") para que el usario pueda acceder a varias paginas desde una misma ventana
 3. La logica de la pantalla principal ( "MENU" ) debe de tener una logica 100% correcta en todos los casos posibles.
 4. El prototipo debe de mostrar temas de relevancia actual, donde estaran acomodadas de menor dificultad a mayor dificultad.
