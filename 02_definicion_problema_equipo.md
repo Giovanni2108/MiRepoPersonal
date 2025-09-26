@@ -8,7 +8,7 @@ Los aspectos de la población objetivo que están siendo afectados por la falta 
 - La exclusión financiera impide que las personas puedan mejorar su calidad de vida mediante la solicitud de créditos con bajas tasas de interés y el trámite de cuentas de ahorro.
 - La falta de educación financiera en los jóvenes puede resultar en la mala gestión de sus recursos económicos y una desmotivación que puede orillarlos a mantenerse en una situación económica inestable. 
 
-
+Sintesis/enunciado del problema
 *Las personas no tienen acceso a una herramienta intuitiva de educación financiera integral, lo que limita su interés en las buenas prácticas financieras mediante la planificación.*
 
 # Causas principales del problema
