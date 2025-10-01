@@ -1,6 +1,6 @@
-Nombre del integrante: Ian Alejandro Galván Arvizu
+# Nombre del integrante: Ian Alejandro Galván Arvizu
 
-Ventanas rediseñadas: list y table
+# Ventanas rediseñadas: list y table
 
 # Vista de las ventanas originales 
 
