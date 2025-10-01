@@ -1,4 +1,4 @@
 - Nombre: Joaquín Mosqueda Velázquez
 - Ventana asignada: Formulario
-Cambios: Se agregaron nuevos espacios para ingresar datos y se le dio un formato atractivo a la ventana. 
-Reflexión: Estos cambios apoyan la idea del proyecto porque los datos ingresados permiten realizar un análisis de los usuarios y ver las áreas de oportunidad de la aplicación.
+- Cambios: Se agregaron nuevos espacios para ingresar datos y se le dio un formato atractivo a la ventana. 
+- Reflexión: Estos cambios apoyan la idea del proyecto porque los datos ingresados permiten realizar un análisis de los usuarios y ver las áreas de oportunidad de la aplicación.
