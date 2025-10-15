@@ -1,0 +1,15 @@
+{
+  "api_url": "https://tu-endpoint-de-noticias/endpoint",
+  "api_token": "coloca_tu_token_opcional",
+  "article_url_template": "https://tu-sitio-de-noticias/detalle/{newsId}",
+  "params": {
+    "services": "600,604,608,614,615,618,620,655",
+    "filter": "0",
+    "period": "0",
+    "listType": "6",
+    "rows": "20",
+    "includeBreaking": "true",
+    "excludeTables": "false",
+    "page": "1"
+  }
+}

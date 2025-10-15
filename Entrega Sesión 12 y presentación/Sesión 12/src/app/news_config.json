@@ -1,0 +1,15 @@
+{
+  "api_url": "https://hub-news-qa.infosel-digitalfactory.com/api/v1/news?services=600%2C604%2C608%2C614%2C615%2C618%2C620%2C655&words=AMX%2CALFA%2CCEMEX&filter=0&tag=Deuda&period=3&listType=6&rows=20&page=1&sourcesId=1%2C2&sectors=1%2C2&includeBreaking=true&excludeTables=false&ambit=interno&onlyTop=false&symbol=ALFAA%2C%20CEMECPO%2C%20AEROMEX%2A&startDate=2022-04-01&endDate=2022-04-01&newsTypeId=1%2C2",
+  "api_token": "coloca_tu_token_opcional",
+  "article_url_template": "https://tu-sitio-de-noticias/detalle/{newsId}",
+  "params": {
+    "services": "600,604,608,614,615,618,620,655",
+    "filter": "0",
+    "period": "0",
+    "listType": "6",
+    "rows": "20",
+    "includeBreaking": "true",
+    "excludeTables": "false",
+    "page": "1"
+  }
+}
